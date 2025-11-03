@@ -320,3 +320,18 @@ input:focus, textarea:focus, select:focus {
     align-items: center;
   }
 }
+
+body {
+  background-color: #0a192f;
+  color: #ccd6f6;
+}
+
+.header, .footer {
+  background-color: #112240;
+  color: #ccd6f6;
+}
+
+.btn {
+  background-color: #64ffda;
+  color: #0a192f;
+}
