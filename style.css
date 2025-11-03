@@ -103,3 +103,34 @@ img {
   border: 5px solid #fff;
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
 }
+
+.about {
+  background: linear-gradient(135deg, #f7fbff, #eaf4ff);
+  padding: 70px 0;
+}
+
+.about-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 40px;
+}
+
+.about-photo img {
+  width: 250px;
+  border-radius: 20px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+  border: 4px solid #fff;
+}
+
+.about-content p {
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.skills-list span {
+  background: #004e92;
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 20px;
+}
