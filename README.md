@@ -1,5 +1,6 @@
-# Prakikum-Pemweb-Judul2
+# Praktikum-Pemweb-Judul2
 Tugas Akhir Judul 2
+
 # 🌐 Portofolio Website – Arianti Kartika Dewi
 
 Repository ini berisi dokumentasi proses pembuatan website portofolio pribadi menggunakan **HTML dan CSS**, serta penerapan **version control (Git dan GitHub)** pada Tugas Akhir Praktikum Pemrograman Web (Judul 2).
