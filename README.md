@@ -7,6 +7,7 @@ Repository ini berisi dokumentasi proses pembuatan website portofolio pribadi me
 ## Identitas
 **Nama:** Arianti Kartika Dewi  
 **NPM:** 2315061047
+**Kelas:** PPW-B
 
 ---
 
