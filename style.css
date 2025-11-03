@@ -134,3 +134,32 @@ img {
   padding: 8px 14px;
   border-radius: 20px;
 }
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.card {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  overflow: hidden;
+  width: 300px;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-content {
+  padding: 15px;
+}
+
+.card h3 {
+  color: #004e92;
+  margin-bottom: 10px;
+}
